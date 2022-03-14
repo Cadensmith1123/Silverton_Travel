@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Silverton_Travel/static/css/main.5434080a.css",
-    "main.js": "/Silverton_Travel/static/js/main.cd661d88.js",
+    "main.css": "/Silverton_Travel/static/css/main.c68825c5.css",
+    "main.js": "/Silverton_Travel/static/js/main.51a32b18.js",
     "static/js/787.d54456cf.chunk.js": "/Silverton_Travel/static/js/787.d54456cf.chunk.js",
     "static/media/garden1.jpg": "/Silverton_Travel/static/media/garden1.aee727dc532a4538c5dd.jpg",
     "static/media/resevoir.jpeg": "/Silverton_Travel/static/media/resevoir.5100087336baeb28af76.jpeg",
@@ -10,12 +10,12 @@
     "static/media/TOD_Winter_SilverFalls_2.jpg.jpg": "/Silverton_Travel/static/media/TOD_Winter_SilverFalls_2.jpg.a2554bd6a6957567a419.jpg",
     "static/media/silverfalls.jpg": "/Silverton_Travel/static/media/silverfalls.73be7df051305540605e.jpg",
     "index.html": "/Silverton_Travel/index.html",
-    "main.5434080a.css.map": "/Silverton_Travel/static/css/main.5434080a.css.map",
-    "main.cd661d88.js.map": "/Silverton_Travel/static/js/main.cd661d88.js.map",
+    "main.c68825c5.css.map": "/Silverton_Travel/static/css/main.c68825c5.css.map",
+    "main.51a32b18.js.map": "/Silverton_Travel/static/js/main.51a32b18.js.map",
     "787.d54456cf.chunk.js.map": "/Silverton_Travel/static/js/787.d54456cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5434080a.css",
-    "static/js/main.cd661d88.js"
+    "static/css/main.c68825c5.css",
+    "static/js/main.51a32b18.js"
   ]
 }
